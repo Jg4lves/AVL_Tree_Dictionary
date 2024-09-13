@@ -18,5 +18,4 @@ simples,ed -> synonyms of the word facil
 [elegante->demais] -> the path taken in the AVL tree to find the word demais
 bastante,numeroso,demasiado,abundante,excessivo -> synonyms of the word demais
 [elegante->nada->trabalho->?] -> the word was not found in the tree.
-
 - -> this line indicates that there are no synonyms to display
